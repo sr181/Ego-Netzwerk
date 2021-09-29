@@ -1,0 +1,12 @@
+CODEBUCH,
+,
+Wert,Kommentar
+edgelist,
+weight,"1=jeden Tag, 2=1x wöchentlich, 3=1x jährlich"
+relation,"1=Mutter, 2=Freundin, 3=Kommilitone, 4=Bekanntschaft"
+,
+nodelist,
+sex,"1=female, 2=male"
+edu,"1=Abitur, 2=Studium"
+religion,"1=katholisch, 2=keine"
+name,"1=Südeuropa, 2=Mittel/Osteuropa, 3=anderes Land"
