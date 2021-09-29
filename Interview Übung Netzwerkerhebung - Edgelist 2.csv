@@ -1,0 +1,8 @@
+from,to,weight,relation
+S,IR,1,1
+S,G,2,2
+S,IV,2,2
+S,P,2,3
+IR,G,3,4
+IR,IV,3,4
+G,IV,3,4
